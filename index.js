@@ -22,5 +22,11 @@ var funkyFunction = function() {
     return "FUNKY!"
   }
 }
+<<<<<<< HEAD
 
 var theFunk = funkyFunction()()
+=======
+funkyFunction()
+var theFunk = funkyFunction()
+theFunk()()
+>>>>>>> 2603cc425b38ecbdebcbe2876acf952e1557bc27
